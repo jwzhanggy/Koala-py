@@ -1,2 +1,2 @@
 # Koala-py
-An open source toolkit for broad learning in Python
+An open source toolkit for artificial intelligence algorithms in Python
