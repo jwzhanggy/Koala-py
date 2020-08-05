@@ -4,5 +4,5 @@
   <img src="./Loala-py.png">
 </p>
 
-An open source toolkit for artificial intelligence algorithms in Python <br>
+An open source & self-contained toolkit for artificial intelligence algorithms in Python <br>
 (In development)
