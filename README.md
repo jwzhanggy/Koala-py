@@ -5,6 +5,5 @@
 # Koala-py
 
 An open source & self-contained toolkit for artificial intelligence algorithms in Python <br>
-(In development)
+([In development](./Progress_Record))
 
-Progress Records: [a relative link](./progress_record)
