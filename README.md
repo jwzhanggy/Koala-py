@@ -6,3 +6,5 @@
 
 An open source & self-contained toolkit for artificial intelligence algorithms in Python <br>
 (In development)
+
+Progress Records: [a relative link](./progress_record)
